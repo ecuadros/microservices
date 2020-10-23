@@ -3,3 +3,11 @@ To generate a project
 
 Git hub tutorial
 https://github.com/koushikkothagal/spring-boot-microservices-workshop
+
+Spring Boot Microservices Level 2
+https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e
+
+Configuracion de Netflix
+https://github.com/Netflix/Hystrix/wiki/Configuration
+
+Kystrix Dashboard, Turbine

@@ -4,12 +4,27 @@ public class Movie
 {
     public String movieId;
     public String name;
+    public String overview;
 
-    public Movie(){}
-    public Movie(String movieId, String name)
+    public Movie()
+    {
+    }
+
+    public Movie(String movieId, String name, String overview)
     {
         this.movieId = movieId;
         this.name = name;
+        this.overview = overview;
+    }
+
+    public String getOverview()
+    {
+        return overview;
+    }
+
+    public void setOverview(String overview)
+    {
+        this.overview = overview;
     }
 
     public String getMovieId()
